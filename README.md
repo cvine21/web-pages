@@ -1,6 +1,5 @@
 # Web pages
-Here are small 5 web pages with the application of some features
-
+Here are small 5 web pages with the application of adaptivity and accessibility
 ## Content
 1. [Personal portfolio page](https://github.com/cvine21/web-pages/tree/main/personal_protfolio_page)\
     Adaptive Personal portfolio page with accessible navigation bar
