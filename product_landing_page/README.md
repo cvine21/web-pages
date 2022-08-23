@@ -1,4 +1,4 @@
-# porduct_landing_page
+# Product landing page
 Adaptive product landing page with accessible navigation bar
 
 ## Screnshots
