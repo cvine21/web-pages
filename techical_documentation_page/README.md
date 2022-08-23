@@ -1,5 +1,5 @@
 # Technical documentation page
 Adaptive technical documentation page with accessible navigation bar.
 
-## Screenshots
+## Screenshot
 <div><img src="./screenshot.png" /></div>
